@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+}
+.bg-light {
+    background-color: midnightblue!important;
+}
+nav,
+a {
+    color: gold;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.nav-link {
+    font-size: 19px;
+}
+nav {
+    padding-top: 20px!important;
+    padding-bottom: 25px!important;
+}
