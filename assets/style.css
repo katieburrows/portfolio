@@ -28,3 +28,16 @@ nav {
 .container {
     margin-top: 100px;
 }
+
+ #profileImage {
+    height: 250px;
+    width: 250px;
+}
+
+
+#pic {
+    max-width: 315px !important;
+    height: auto !important;
+    
+    border-radius: 5px;
+}
