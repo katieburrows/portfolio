@@ -1,6 +1,8 @@
 body {
     background-color: lightgray;
     font-family: 'Playfair Display', serif;
+    border-color: gold;
+    border: 10px;
 }
 .bg-light {
     background-color: midnightblue!important;
@@ -24,7 +26,12 @@ nav {
 .allSlides{
     margin: auto;
 }
-
+h1 {
+    margin: 20px 0px -80px 85px;
+    font-size: 22px; 
+    color: midnightblue;
+    text-shadow: 2px 2px gold;
+}
 .container {
     margin-top: 100px;
 }
@@ -36,8 +43,19 @@ nav {
 
 
 #pic {
-    max-width: 315px !important;
+    max-width: 230px !important;
     height: auto !important;
-    
     border-radius: 5px;
+}
+
+#techList, 
+#list,
+#techHeader {
+    border-radius: 5px;
+    border-color: gold;
+    color: midnightblue;
+}
+
+#techHeader {
+    text-shadow: 2px 2px gold;
 }
