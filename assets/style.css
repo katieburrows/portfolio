@@ -48,14 +48,31 @@ h1 {
     border-radius: 5px;
 }
 
-#techList, 
-#list,
-#techHeader {
-    border-radius: 5px;
-    border-color: gold;
-    color: midnightblue;
-}
-
 #techHeader {
     text-shadow: 2px 2px gold;
+    margin-top: 5px;
+    margin-bottom: -5px;
+}
+
+#list {
+    display: inline-block;
+    border-style: double;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: gold;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: midnightblue;
+    color: gold;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+  }
+
+li {
+    padding: 0px 10px 0px 10px;
+    width: 215px;
 }
