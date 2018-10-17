@@ -23,6 +23,11 @@ nav {
     padding-top: 20px!important;
     padding-bottom: 25px!important;
 }
+.carousel-item{
+    border-style: double;
+    border-color: gold;
+    border-radius: 5px;
+}
 .allSlides{
     margin: auto;
 }
@@ -46,6 +51,8 @@ h1 {
     max-width: 230px !important;
     height: auto !important;
     border-radius: 5px;
+    border-style: double;
+    border-color: gold;
 }
 
 #techHeader {
@@ -75,4 +82,27 @@ ul {
 li {
     padding: 0px 10px 0px 10px;
     width: 215px;
+}
+
+#contact {
+    margin-top: 25px;
+    display: inline-block;
+    padding: 100px;
+    background-color: midnightblue;
+    color: gold;
+    border-style: double;
+    border-color: gold;
+    border-radius: 5px;
+}
+
+#works {
+    margin: 25px 0px 0px 287px;
+    display: inline-block;
+    padding: 40px;
+    font-size: 25px;
+    background-color: midnightblue;
+    color: gold;
+    border-style: double;
+    border-color: gold;
+    border-radius: 5px;
 }
