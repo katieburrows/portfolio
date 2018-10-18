@@ -79,7 +79,7 @@ ul {
     display: inline;
   }
 
-li {
+  .listItem {
     padding: 0px 10px 0px 10px;
     width: 215px;
 }
