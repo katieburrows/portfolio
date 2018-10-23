@@ -9,20 +9,22 @@ body {
     padding-bottom: 20px;
     background-color: midnightblue!important;
 } */
+#bg-light,
 .bg-light {
-    padding-top: 20px;
-    padding-bottom: 25px;
+    padding-top: 40px!important;
+    padding-bottom: 45px!important;
     background-color: midnightblue!important;
     color: gold; 
 }
 
+
 .navbar-brand{
-    font-size: 30px;
+    font-size: 55px;
 }
 
 .nav-link {
     color: gold;
-    font-size: 19px;
+    font-size: 38px;
 }
 
 
