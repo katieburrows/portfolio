@@ -30,12 +30,13 @@ body {
 
 #workContainer {
     width: 100%;
-    margin-left: 17%;
+    margin-top: 20px;
+    margin-left: 7%;
 }
 
 img {
     height: 350px;
-    width: 400px;
+    width: 500px;
     border-style: double;
     border-color: gold;
     border-radius: 5px;
