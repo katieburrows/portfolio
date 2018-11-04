@@ -27,10 +27,20 @@ body {
     width: 90%;
     margin: 0 auto;
 }
-img {
-    height: 700px;
-    width: 800px;
+
+#workContainer {
+    width: 100%;
+    margin-left: 17%;
 }
+
+img {
+    height: 350px;
+    width: 400px;
+    border-style: double;
+    border-color: gold;
+    border-radius: 5px;
+}
+
 
   
   
