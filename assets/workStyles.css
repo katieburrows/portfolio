@@ -40,8 +40,12 @@ img {
     border-style: double;
     border-color: gold;
     border-radius: 5px;
+    margin-top: 20px;
 }
 
+h3 {
+    font-size: 16px;
+}
 
   
   
