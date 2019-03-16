@@ -52,9 +52,7 @@ h3 {
     margin: 30px 0px 30px 585px;
     padding: 20px;
     background-color: midnightblue;
-    border: 4px;
-    border-style: double;
-    border-color: gold;
+    border: 4px double gold;
     border-radius: 5px;
     
 }
