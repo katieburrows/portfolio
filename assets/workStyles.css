@@ -1,7 +1,7 @@
 body {
     background-color: lightgray;
     font-family: 'Playfair Display', serif;
-    border-color: gold;
+    border-color: #d1bf81;
     border: 10px;
 }
 
@@ -9,8 +9,8 @@ body {
 .bg-light {
     padding-top: 20px!important;
     padding-bottom: 25px!important;
-    background-color: midnightblue!important;
-    color: gold; 
+    background-color: #31425e!important;
+    color: #d1bf81; 
 }
 
 #navbar-brand,
@@ -19,7 +19,7 @@ body {
 }
 
 .nav-link {
-    color: gold;
+    color: #d1bf81;
     font-size: 19px;
 }
 
@@ -38,7 +38,7 @@ img {
     height: 350px;
     width: 500px;
     border-style: double;
-    border-color: gold;
+    border-color: #d1bf81;
     border-radius: 5px;
     margin-top: 20px;
 }
@@ -47,15 +47,22 @@ h3 {
     font-size: 16px;
 }
 
+a {
+    color: #31425e;
+}
+
 #returnHome {
-    color: gold!important;
+    color: #d1bf81!important;
     margin: 30px 0px 30px 585px;
     padding: 20px;
-    background-color: midnightblue;
-    border: 4px double gold;
-    border-radius: 5px;
-    
+    background-color: #31425e;
+    border: 4px double #d1bf81;
+    border-radius: 5px; 
 }
+#returnButton {
+    color: #d1bf81;
+}
+
 
 
   

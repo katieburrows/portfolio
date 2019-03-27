@@ -1,24 +1,24 @@
 body {
     background-color: lightgray;
     font-family: 'Playfair Display', serif;
-    border-color: gold;
+    border-color: #d1bf81;
     border: 10px;
 }
 .bg-light,
 #bg-light {
-    background-color: midnightblue!important;
+    background-color: #31425e!important;
     padding-top: 20px!important;
     padding-bottom: 25px!important;
 }
 .navbar-brand {
     font-size: 30px;
-    color: gold!important;
+    color: #d1bf81!important;
 }
 #navbarBrand {
     font-size: 30px;
 }
 a {
-    color: gold;
+    color: #d1bf81;
 }
 
 /* .navbar-brand {
@@ -35,7 +35,7 @@ a {
 } */
 .carousel-item{
     border-style: double;
-    border-color: gold;
+    border-color: #d1bf81;
     border-radius: 5px;
 }
 .allSlides{
@@ -44,8 +44,8 @@ a {
 h1 {
     margin: 20px 0px -80px 85px;
     font-size: 22px; 
-    color: midnightblue;
-    text-shadow: 2px 2px gold;
+    color: #31425e;
+    text-shadow: 2px 2px #d1bf81;
 }
 .container {
     margin-top: 100px;
@@ -62,11 +62,11 @@ h1 {
     height: auto !important;
     border-radius: 5px;
     border-style: double;
-    border-color: gold;
+    border-color: #d1bf81;
 }
 
 #techHeader {
-    text-shadow: 2px 2px gold;
+    text-shadow: 2px 2px #d1bf81;
     margin-top: 5px;
     margin-bottom: -5px;
 }
@@ -76,11 +76,11 @@ h1 {
     border-style: double;
     border-width: 5px;
     border-radius: 5px;
-    border-color: gold;
+    border-color: #d1bf81;
     padding: 5px;
     margin-top: 10px;
-    background-color: midnightblue;
-    color: gold;
+    background-color: #31425e;
+    color: #d1bf81;
     text-align: center;
 }
 
@@ -98,10 +98,10 @@ ul {
     margin-top: 25px;
     display: inline-block;
     padding: 100px;
-    background-color: midnightblue;
-    color: gold;
+    background-color: #31425e;
+    color: #d1bf81;
     border-style: double;
-    border-color: gold;
+    border-color: #d1bf81;
     border-radius: 5px;
 }
 
@@ -110,10 +110,10 @@ ul {
     display: inline-block;
     padding: 40px;
     font-size: 25px;
-    background-color: midnightblue;
-    color: gold;
+    background-color: #31425e;
+    color: #d1bf81;
     border-style: double;
-    border-color: gold;
+    border-color: #d1bf81;
     border-radius: 5px;
 }
   .screenShot {
@@ -122,8 +122,8 @@ ul {
   }
   
   .carousel-caption {
-      background-color: midnightblue;
-      color: gold;
+      background-color: #31425e;
+      color: #d1bf81;
       opacity: 0.9;
       height: 100px;
   }
