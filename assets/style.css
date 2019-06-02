@@ -21,18 +21,11 @@ a {
     color: #d1bf81;
 }
 
-/* .navbar-brand {
-    font-size: 30px;
-    color: gold!important;
-} */
 
 .nav-link {
     font-size: 19px;
 }
-/* nav {
-    padding-top: 20px!important;
-    padding-bottom: 25px!important;
-} */
+
 .carousel-item{
     border-style: double;
     border-color: #d1bf81;
