@@ -72,5 +72,10 @@ footer {
     text-align: center;
   }
   
-  
-  
+@media screen and (max-width: 942px) {
+    #bg-light {
+        width: 942px!important;
+        
+    }
+    
+}
