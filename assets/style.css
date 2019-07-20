@@ -150,3 +150,10 @@ ul {
     width: 116%;
     margin-left: -8%;
   }
+
+  @media screen and (max-width: 942px) {
+    #bg-light {
+        width: 942px!important;
+        
+    }
+}

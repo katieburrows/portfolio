@@ -77,5 +77,7 @@ footer {
         width: 942px!important;
         
     }
-    
+    #returnHome {
+        margin: 0 auto;
+    }
 }
